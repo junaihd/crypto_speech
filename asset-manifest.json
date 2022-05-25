@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/crypto_speech/static/css/main.5885b577.css",
+    "main.js": "/crypto_speech/static/js/main.1a6bb4da.js",
+    "index.html": "/crypto_speech/index.html",
+    "main.5885b577.css.map": "/crypto_speech/static/css/main.5885b577.css.map",
+    "main.1a6bb4da.js.map": "/crypto_speech/static/js/main.1a6bb4da.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5885b577.css",
+    "static/js/main.1a6bb4da.js"
+  ]
+}
